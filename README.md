@@ -13,7 +13,7 @@ make re
 To clean object files
 
 ```
-make fclean
+make clean
 ```
 
 ### Usage:
