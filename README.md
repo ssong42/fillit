@@ -1,3 +1,5 @@
+![alt text](https://www.bleedingcool.com/wp-content/uploads/2018/02/Tetris-logo-stars.jpg)
+
 # FILLIT
 
 A program that will accept tetris pieces and create the smallest possible square (up to 26 tetris pieces). This program does
